@@ -5,7 +5,7 @@ Nodos is an advanced node-based graph scheduling system that is designed to simp
 You can check online documentation here: https://www.nodos.dev/
 
 ## Download
-1.2.3.b3710 (Feb 26, 2025) - [Broadcast Release](https://github.com/nodos-dev/bundler/releases/download/v1.2.3.b3710-broadcast-x86_64-windows/Nodos-1.2.3.b3710-bundle-broadcast_1.2-x86_64-windows.zip)
+1.2.6.b3768 (May 13, 2025) - [Broadcast Release](https://github.com/nodos-dev/bundler/releases/download/v1.2.6.b3768-broadcast-x86_64-windows/Nodos-1.2.6.b3768-bundle-broadcast_1.2-x86_64-windows.zip)
 
 1.3.0.b3803 (Jun 19, 2025) - [Broadcast Release Candidate for Windows](https://github.com/nodos-dev/bundler/releases/download/v1.3.0.b3803-broadcast-x86_64-windows/Nodos-1.3.0.b3803-bundle-broadcast_1.3-x86_64-windows.zip)
 
